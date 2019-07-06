@@ -1,0 +1,21 @@
+h1 { 
+  font-family: Garamond; 
+  color: green; 
+} 
+    
+h2 { 
+  font-family: Garamond; 
+  color: #5882FA; 
+} 
+    
+body { 
+  max-width: 800px;
+  margin: auto;
+}
+
+table {
+  width: 10%;
+  font-family: Garamond; 
+  color: #5882FA; 
+} 
+
